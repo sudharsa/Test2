@@ -3,7 +3,7 @@
 <style>
 table {
     border-collapse: collapse;
-    border-radius: 999px;
+    border-radius: 100px;
 }
 
 table, td, th {
