@@ -3,7 +3,7 @@
 <head>
 <style>
 .city {
-    background-color: pink;
+    background-color: red;
     color: pink;
     padding: 100px;
 }
